@@ -1,1 +1,17 @@
-// calcCircumfrence function should be here
+// calcircumference function should be here
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Math.PI</h2>
+
+<p>Math.PI returns the ratio of a circle's circumference to its diameter:</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = Math.PI;
+</script>
+
+</body>
+</html>
