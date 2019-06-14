@@ -7,8 +7,6 @@
 
 <p>Math.PI returns the ratio of a circle's circumference to its diameter:</p>
 
-<p id="demo"></p>
-
 <script>
 document.getElementById("demo").innerHTML = Math.PI;
 </script>
